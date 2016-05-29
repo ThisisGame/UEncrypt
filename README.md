@@ -1,2 +1,2 @@
-# URSAEncrypt
-RSAEncrypt is an example of RSA encryption network message
+# UEncrypt
+UEncrypt is an example of encryption network message
